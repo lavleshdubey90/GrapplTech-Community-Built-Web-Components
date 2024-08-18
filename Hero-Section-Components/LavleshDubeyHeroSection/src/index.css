@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300..700&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    font-family: quicksand;
+}
+
+@layer utilities {
+    .bottomDot {
+        @apply relative block before:absolute before:w-[6px] before:h-[6px] before:rounded-full before:bg-teal-500 before:top-8 before:left-1/2 before:transform before:-translate-x-1/2;
+    }
+
+    .sideDot {
+        @apply relative block before:absolute before:w-[6px] before:h-[6px] before:rounded-full before:bg-teal-500 before:-left-6 before:top-[9px];
+    }
+
+    .btn {
+        @apply max-w-[190px] max-h-[60px] px-5 py-3 rounded-lg bg-royalBlue shadow-[0px_4px_4px_0] hover:shadow-[0px_8px_4px_0] hover:shadow-brightCyan duration-300 shadow-brightCyan;
+    }
+}
