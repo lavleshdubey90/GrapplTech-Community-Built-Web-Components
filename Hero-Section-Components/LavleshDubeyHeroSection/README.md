@@ -34,4 +34,4 @@ npm run dev
 ### **2. View the Project**
 
 - **Live Site URL**: https://wondrous-kitsune-0ca3ad.netlify.app/
-- **Figma Design**: https://www.figma.com/design/g00vH4lOAw8D2svqrjT7XL/GrapplTech?node-id=0-1&m=dev&t=gqAwTfC7CkeuSQTr-1
+- **Figma Design**: https://www.figma.com/design/g00vH4lOAw8D2svqrjT7XL/GrapplTech?node-id=0-1&t=gqAwTfC7CkeuSQTr-1
