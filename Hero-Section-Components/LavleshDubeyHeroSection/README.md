@@ -1,6 +1,6 @@
-# **VR Learning Platform - Hero Section**
+# **VR Glasses - Hero Section**
 
-This project is a **Hero section** for a VR Learning Platform, created as part of an internship at **GrapplTech** as a Frontend Developer. The focus is on designing a visually appealing and modern Hero section with a navbar that highlights the immersive experience of using VR technology for education.
+This project is a **Hero section** for showcasing VR glasses, created as part of an internship at **GrapplTech** as a Frontend Developer. The focus is on designing a visually striking and modern Hero section with a navbar that emphasizes the cutting-edge technology and immersive experience offered by VR glasses.
 
 ## **Project Overview**
 
